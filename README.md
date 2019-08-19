@@ -1,1 +1,1 @@
-# Restaurant-Manament
+# Restaurant-Management
